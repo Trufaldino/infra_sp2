@@ -1,4 +1,4 @@
-<!-- 
+
 # Добро пожаловать на проект Infra_sp2!
 
   
@@ -129,4 +129,4 @@ http://127.0.0.1/api/v1/titles/
 
 Полный список зависимостей можно посмотреть в **requirements.txt**
 
-Авторы проекта **Anton Ryadisnki, Vlad Mironov, Mars Yamaletdinov** -->
+Авторы проекта **Anton Ryadisnki, Vlad Mironov, Mars Yamaletdinov**
